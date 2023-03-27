@@ -7,6 +7,9 @@ I am currently working on the functions that provide the transformations each sh
   - Counter clockwise rotation
   - Orizontal movement (left and right)
   - Vertical movement (down)
+  
+  
+ 
 Once all these are implemented I will work on gravity and collision detection. Lastly I will implement the desappearance of completed rows and a point system.
 I am eager to see how the project evolves and if the final product will be consistent with my initial design, I would also love to receive input and help with it!
 Anyone at a junior level is welcome to join.
